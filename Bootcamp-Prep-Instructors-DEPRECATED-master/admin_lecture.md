@@ -1,0 +1,28 @@
+# Admin Lecture
+
+- Daily Schedule
+  - Class begins each day with a Q+A session on the previous day's problem set or any other ideas you've had trouble understanding.
+  - The majority of class will consist with a lecture followed by time to work on the problem set.
+- Github Tour
+  - Where can they find solutions?
+  - Where can they find lecture videos?
+  - What are some other resources available?
+    - Logical Prep Course: They can do it if they want. If we see people struggling we will demand that they do it.
+    - Recitation: Extra exercises that students have found really helpful in the past. Don't do the recitation for topics that we haven't covered yet. They can do the first recitation tonight.
+  - Point out the links to each day's `lecture_notes` and `problem_set` in `README.md`
+- Piazza
+  - You all should have received a link to Piazza. It's an online platform to ask questions. Although it will be actively monitored, we encourage students to ask their peers questions.
+- Bootcamp Prep online
+  - We are in the process of making an online version of Bootcamp Prep. Although it's still in Beta mode, we've given you all access to it. Feel free to use it as a supplement.
+- Strike Policy
+  - We work on a strike system. If a student receives 4 strikes, they lose their guarantee (They will still have access to all the course materials). The purpose of this system is to make sure students are doing everything they need to do in order to be successful. Please refer to the `other/agreement_summaries.md` for specifics on what will earn you a strike.
+- Feedback
+  - Every night, you will be emailed a feedback form. It will ask you about how class went, things we could improve, things we are doing well, etc. You are required to fill out this feedback form before the following class or that is a strike. It'll be short, but it's very important for us and the continued development of the course.
+- Attendance policy
+  - Class will start promptly at 6pm. Being late or absent will be a strike.
+- Assessments
+  - We give two assessments a week (Monday and Friday, except the first Monday). You must take each assessment, even if you are absent, or that is a strike.
+  - Each Friday assessment will start with an hour long review. Then you'll have an hour for the assessment. Unless you get a perfect score on the assessment, you must email me a perfect assessment by the following Monday. We will be posting solution videos for you to follow.
+  - Each Monday, we will start the assessment immediately at 6pm. I will then go over the solutions in class. The Monday assessment will be very similar to the Friday assessment.
+- Pay Attention
+  - Using your phone, sleeping, not paying attention all will earn you a strike.
